@@ -1,6 +1,6 @@
 # homebrew-formulae
 
-My personal [Homebrew][1] formulae
+Personal [Homebrew][1] formulae
 
 [1]: https://brew.sh
 
