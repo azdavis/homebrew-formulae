@@ -5,6 +5,6 @@ class FixWs < Formula
 	sha256 "b925693a8f9067bea88bd387e6940eb273231907c6d969ce60e80bd2db5b9f90"
 
 	def install
-		bin.install "bin/fix-ws"
+		bin.install "fix-ws"
 	end
 end
