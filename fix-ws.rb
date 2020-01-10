@@ -1,4 +1,4 @@
-class FixWS < Formula
+class FixWs < Formula
 	desc "Fixes whitespace"
 	homepage "https://github.com/azdavis/fix-ws"
 	url "https://github.com/azdavis/fix-ws/releases/download/v0.1.0/fix-ws-mac.tar.gz"
